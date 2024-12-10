@@ -1,0 +1,7193 @@
+[
+  {
+    "sentence": [
+      "Fine",
+      "workmanship",
+      "is",
+      "the",
+      "result",
+      "almost",
+      "entirely",
+      "of",
+      "the",
+      "worker",
+      "'s",
+      "accurate",
+      "eye",
+      "and",
+      "deft",
+      "hand",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "eye",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "worker",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "In",
+      "a",
+      "power",
+      "system",
+      "consisting",
+      "of",
+      "transmission",
+      "lines",
+      "connected",
+      "together",
+      "and",
+      "to",
+      "two",
+      "or",
+      "more",
+      "generators",
+      ",",
+      "the",
+      "rotors",
+      "of",
+      "the",
+      "generators",
+      "rotate",
+      "at",
+      "a",
+      "constant",
+      "speed",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 18,
+      "end_idx": 18,
+      "span": "rotors",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 21,
+      "end_idx": 21,
+      "span": "generators",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "The",
+      "series",
+      "comprises",
+      "some",
+      "re-issues",
+      "of",
+      "the",
+      "previous",
+      "books",
+      ",",
+      "as",
+      "well",
+      "as",
+      "new",
+      "titles",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "titles",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "series",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "Jack",
+      "and",
+      "Jill",
+      "are",
+      "lying",
+      "on",
+      "the",
+      "floor",
+      "inside",
+      "the",
+      "house",
+      "dead",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "floor",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "house",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "Metals",
+      ",",
+      "on",
+      "the",
+      "other",
+      "hand",
+      ",",
+      "reflect",
+      "these",
+      "radio",
+      "waves",
+      ",",
+      "a",
+      "characteristic",
+      "very",
+      "cleverly",
+      "put",
+      "to",
+      "use",
+      "in",
+      "the",
+      "walls",
+      "of",
+      "the",
+      "microwave",
+      "such",
+      "that",
+      "no",
+      "waves",
+      "escape",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 21,
+      "end_idx": 21,
+      "span": "walls",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 24,
+      "end_idx": 24,
+      "span": "microwave",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "The",
+      "handle",
+      "of",
+      "the",
+      "bow",
+      "is",
+      "made",
+      "of",
+      "wood",
+      "and",
+      "the",
+      "strings",
+      "of",
+      "the",
+      "bow",
+      "are",
+      "actually",
+      "horsehair",
+      "from",
+      "horses",
+      "'",
+      "tails",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "strings",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "bow",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "We",
+      "removed",
+      "some",
+      "living",
+      "branches",
+      "and",
+      "new",
+      "growth",
+      ",",
+      "thus",
+      "maximizing",
+      "light",
+      "penetration",
+      "and",
+      "air",
+      "flow",
+      "through",
+      "the",
+      "crown",
+      "of",
+      "the",
+      "tree",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 18,
+      "end_idx": 18,
+      "span": "crown",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 21,
+      "end_idx": 21,
+      "span": "tree",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "Two",
+      "other",
+      "structures",
+      "in",
+      "the",
+      "depth",
+      "of",
+      "the",
+      "midbrain",
+      "that",
+      "are",
+      "important",
+      "for",
+      "normal",
+      "motor",
+      "function",
+      "are",
+      "the",
+      "red",
+      "nucleus",
+      "-LRB-",
+      "not",
+      "visible",
+      "-RRB-",
+      "and",
+      "the",
+      "substantia",
+      "nigra",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 19,
+      "end_idx": 19,
+      "span": "nucleus",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "midbrain",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "In",
+      "a",
+      "similar",
+      "context",
+      ",",
+      "this",
+      "circuit",
+      "has",
+      "followed",
+      "the",
+      "rule",
+      "that",
+      "reinstatement",
+      "is",
+      "a",
+      "basic",
+      "element",
+      "of",
+      "the",
+      "appropriate",
+      "remedy",
+      "in",
+      "wrongful",
+      "employee",
+      "discharge",
+      "cases",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "reinstatement",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 20,
+      "end_idx": 20,
+      "span": "remedy",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "Barrymore",
+      "is",
+      "singing",
+      "while",
+      "painting",
+      "the",
+      "flowers",
+      "on",
+      "the",
+      "wall",
+      "in",
+      "the",
+      "shop",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "wall",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "shop",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "Varicose",
+      "veins",
+      "result",
+      "from",
+      "weakening",
+      "of",
+      "the",
+      "valves",
+      "of",
+      "the",
+      "veins",
+      "so",
+      "that",
+      "blood",
+      "pools",
+      "in",
+      "the",
+      "legs",
+      "or",
+      "another",
+      "dependent",
+      "area",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "valves",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "veins",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "This",
+      "particular",
+      "X-ray",
+      "machine",
+      "has",
+      "a",
+      "timer",
+      "on",
+      "it",
+      "that",
+      "they",
+      "used",
+      "for",
+      "exposure",
+      "time",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "timer",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "machine",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "I",
+      "am",
+      "installing",
+      "lights",
+      "under",
+      "the",
+      "cabinets",
+      "in",
+      "my",
+      "kitchen",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "cabinets",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "kitchen",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "This",
+      "bed",
+      "pole",
+      "has",
+      "a",
+      "hook",
+      "type",
+      "handle",
+      ",",
+      "and",
+      "fits",
+      "under",
+      "the",
+      "mattress",
+      "and",
+      "provides",
+      "a",
+      "firm",
+      "handle",
+      "to",
+      "assist",
+      "with",
+      "moving",
+      "and",
+      "positioning",
+      "in",
+      "bed",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "pole",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "bed",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "He",
+      "zeroed",
+      "in",
+      "on",
+      "the",
+      "metal",
+      "button",
+      "in",
+      "the",
+      "fly",
+      "of",
+      "my",
+      "jeans",
+      "as",
+      "well",
+      "as",
+      "the",
+      "metal",
+      "eyelets",
+      "on",
+      "my",
+      "shoes",
+      "as",
+      "the",
+      "only",
+      "sources",
+      "of",
+      "metal",
+      "that",
+      "likely",
+      "triggered",
+      "the",
+      "metal",
+      "detector",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "fly",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "jeans",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "The",
+      "church",
+      "comprises",
+      "six",
+      "portals",
+      ",",
+      "representing",
+      "different",
+      "architectural",
+      "styles",
+      "from",
+      "Gothic",
+      "to",
+      "Renaissance",
+      "style",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "portals",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "church",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "All",
+      "kangaroos",
+      "have",
+      "a",
+      "chambered",
+      "stomach",
+      "similar",
+      "to",
+      "cattle",
+      "and",
+      "sheep",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "stomach",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "kangaroos",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "The",
+      "executive",
+      "board",
+      "of",
+      "this",
+      "company",
+      "reported",
+      "on",
+      "its",
+      "activities",
+      "and",
+      "answered",
+      "questions",
+      "from",
+      "the",
+      "audience",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 2,
+      "span": "executive board",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "company",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "The",
+      "Aroon",
+      "indicator",
+      "system",
+      "consists",
+      "of",
+      "two",
+      "lines",
+      ",",
+      "`",
+      "Aroon",
+      "-LRB-",
+      "up",
+      "-RRB-",
+      "'",
+      "and",
+      "`",
+      "Aroon",
+      "-LRB-",
+      "down",
+      "-RRB-",
+      "'",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "lines",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "system",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "The",
+      "paw",
+      "of",
+      "the",
+      "cat",
+      "thus",
+      "appears",
+      "to",
+      "be",
+      "more",
+      "sensitive",
+      "to",
+      "temperature",
+      "changes",
+      "than",
+      "was",
+      "believed",
+      "previously",
+      ",",
+      "and",
+      "its",
+      "temperature",
+      "sensitivity",
+      "may",
+      "be",
+      "comparable",
+      "to",
+      "that",
+      "of",
+      "the",
+      "hand",
+      "of",
+      "the",
+      "primate",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "paw",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "cat",
+      "type": null
+    },
+    "relation_type": "Component-Whole"
+  },
+  {
+    "sentence": [
+      "The",
+      "expressive",
+      "colour",
+      ",",
+      "contrasting",
+      "with",
+      "the",
+      "blackness",
+      "of",
+      "an",
+      "apocalyptic",
+      "sky",
+      ",",
+      "the",
+      "chiaroscuro",
+      "that",
+      "accentuates",
+      "the",
+      "insubstantial",
+      "limbs",
+      ",",
+      "and",
+      "the",
+      "desert",
+      "landscape",
+      "and",
+      "pile",
+      "of",
+      "excrement",
+      "dominating",
+      "the",
+      "scene",
+      "express",
+      "Miro",
+      "'s",
+      "profound",
+      "pessimism",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 26,
+      "end_idx": 26,
+      "span": "pile",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 28,
+      "end_idx": 28,
+      "span": "excrement",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Major",
+      "car",
+      "manufacturers",
+      "are",
+      "launching",
+      "more",
+      "and",
+      "more",
+      "cars",
+      "to",
+      "attain",
+      "the",
+      "top",
+      "position",
+      "in",
+      "this",
+      "jungle",
+      "of",
+      "automotives",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "jungle",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 18,
+      "end_idx": 18,
+      "span": "automotives",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Only",
+      "a",
+      "minority",
+      "of",
+      "Armenian",
+      "physicians",
+      "felt",
+      "well",
+      "prepared",
+      "to",
+      "counsel",
+      "patients",
+      "to",
+      "quit",
+      "smoking",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "minority",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "physicians",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "In",
+      "prolific",
+      "suspense",
+      "novelist",
+      "Johansen",
+      "'s",
+      "energetic",
+      "new",
+      "Eve",
+      "Duncan",
+      "thriller",
+      "-LRB-",
+      "Countdown",
+      ",",
+      "2005",
+      ",",
+      "etc.",
+      "-RRB-",
+      ",",
+      "the",
+      "forensics",
+      "sculptor",
+      "makes",
+      "a",
+      "dangerous",
+      "deal",
+      "with",
+      "a",
+      "Colombian",
+      "weapons",
+      "dealer",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 21,
+      "end_idx": 21,
+      "span": "sculptor",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 25,
+      "end_idx": 25,
+      "span": "deal",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Unfortunately",
+      ",",
+      "my",
+      "friend",
+      "falls",
+      "in",
+      "love",
+      "easily",
+      "and",
+      "breaks",
+      "her",
+      "heart",
+      "all",
+      "the",
+      "time",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "friend",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "love",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Batteries",
+      "kept",
+      "in",
+      "good",
+      "condition",
+      "have",
+      "a",
+      "5",
+      "to",
+      "6",
+      "year",
+      "service",
+      "life",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Batteries",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 3,
+      "end_idx": 4,
+      "span": "good condition",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "This",
+      "notifies",
+      "the",
+      "commencement",
+      "of",
+      "the",
+      "exclusion",
+      "of",
+      "hospitals",
+      "from",
+      "the",
+      "definition",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "exclusion",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "definition",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "They",
+      "put",
+      "wine",
+      "in",
+      "the",
+      "exact",
+      "context",
+      "it",
+      "needs",
+      "to",
+      "be",
+      "kept",
+      "in",
+      "-",
+      "not",
+      "so",
+      "bloody",
+      "serious",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "wine",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "context",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "I",
+      "managed",
+      "to",
+      "squeeze",
+      "decent",
+      "photos",
+      "out",
+      "of",
+      "an",
+      "iPhone",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "photos",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "iPhone",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "The",
+      "prisoner",
+      "has",
+      "departed",
+      "into",
+      "captivity",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "prisoner",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "captivity",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Some",
+      "of",
+      "these",
+      "data",
+      "were",
+      "presented",
+      "in",
+      "a",
+      "paper",
+      "read",
+      "at",
+      "the",
+      "annual",
+      "meeting",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "data",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "paper",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Many",
+      "marriages",
+      "do",
+      "not",
+      "recover",
+      "from",
+      "affairs",
+      "at",
+      "all",
+      ",",
+      "but",
+      "at",
+      "least",
+      "one-third",
+      "do",
+      "find",
+      "some",
+      "way",
+      "to",
+      "rebuild",
+      "trust",
+      "and",
+      "happiness",
+      "after",
+      "an",
+      "affair",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 22,
+      "end_idx": 22,
+      "span": "happiness",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 25,
+      "end_idx": 25,
+      "span": "affair",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Such",
+      "airships",
+      "are",
+      "essentially",
+      "motorized",
+      "free",
+      "balloons",
+      "and",
+      "the",
+      "engines",
+      "are",
+      "carried",
+      "in",
+      "a",
+      "car",
+      "attached",
+      "to",
+      "the",
+      "lower",
+      "side",
+      "or",
+      "bottom",
+      "of",
+      "the",
+      "bag",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "engines",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "car",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "However",
+      "in",
+      "addition",
+      "to",
+      "Maori",
+      ",",
+      "other",
+      "population",
+      "groups",
+      "need",
+      "specific",
+      "recognition",
+      "in",
+      "the",
+      "Bill",
+      ",",
+      "including",
+      "people",
+      "with",
+      "disabilities",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "groups",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 17,
+      "end_idx": 17,
+      "span": "people",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "Unlike",
+      "other",
+      "fish",
+      ",",
+      "grunion",
+      "come",
+      "out",
+      "of",
+      "the",
+      "water",
+      "completely",
+      "to",
+      "lay",
+      "their",
+      "eggs",
+      "in",
+      "the",
+      "wet",
+      "sand",
+      "of",
+      "the",
+      "beach",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 18,
+      "end_idx": 18,
+      "span": "sand",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 21,
+      "end_idx": 21,
+      "span": "beach",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "The",
+      "defendants",
+      "took",
+      "advantage",
+      "of",
+      "Astor",
+      "'s",
+      "diminished",
+      "mental",
+      "capacity",
+      "to",
+      "carry",
+      "them",
+      "out",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "defendants",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "capacity",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "The",
+      "slope",
+      "on",
+      "a",
+      "distance-time",
+      "graph",
+      "represents",
+      "the",
+      "speed",
+      "of",
+      "an",
+      "object",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "slope",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "speed",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "The",
+      "final",
+      "character",
+      "was",
+      "the",
+      "brilliant",
+      "scientist",
+      "inventor",
+      "and",
+      "technology",
+      "geek",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "scientist",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "inventor",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "The",
+      "inherent",
+      "RNA",
+      "silencing",
+      "mechanism",
+      "in",
+      "plants",
+      "has",
+      "been",
+      "effectively",
+      "manipulated",
+      "as",
+      "a",
+      "tool",
+      "for",
+      "the",
+      "targeted",
+      "down-regulation",
+      "of",
+      "genes",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "mechanism",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 17,
+      "end_idx": 17,
+      "span": "down-regulation",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "These",
+      "two",
+      "ports",
+      "were",
+      "specialized",
+      "in",
+      "the",
+      "manufacture",
+      "of",
+      "luxury",
+      "goods",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "ports",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "manufacture",
+      "type": null
+    },
+    "relation_type": "Other"
+  },
+  {
+    "sentence": [
+      "During",
+      "a",
+      "dribble",
+      "the",
+      "dribbler",
+      "keeps",
+      "the",
+      "ball",
+      "on",
+      "the",
+      "side",
+      "of",
+      "his",
+      "body",
+      "that",
+      "is",
+      "away",
+      "from",
+      "the",
+      "defender",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "ball",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "dribbler",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "The",
+      "playwright",
+      "uses",
+      "names",
+      "as",
+      "a",
+      "device",
+      "for",
+      "wordplay",
+      "at",
+      "several",
+      "points",
+      "in",
+      "the",
+      "play",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "names",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "playwright",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "It",
+      "'s",
+      "a",
+      "best",
+      "mobile",
+      "terminal",
+      "for",
+      "a",
+      "programmer",
+      "or",
+      "geek",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "terminal",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "programmer",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "Human",
+      "rights",
+      "advocates",
+      "lit",
+      "a",
+      "flame",
+      "to",
+      "press",
+      "the",
+      "international",
+      "community",
+      "-",
+      "especially",
+      "China",
+      "-",
+      "to",
+      "bring",
+      "security",
+      "to",
+      "Darfur",
+      ",",
+      "Sudan",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "flame",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "advocates",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "A",
+      "person",
+      "regains",
+      "the",
+      "movement",
+      "roughly",
+      "equal",
+      "to",
+      "walking",
+      "on",
+      "solid",
+      "ground",
+      "by",
+      "using",
+      "snowshoes",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "snowshoes",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "person",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "It",
+      "is",
+      "easier",
+      "to",
+      "push",
+      "the",
+      "blade",
+      "through",
+      "the",
+      "soil",
+      "and",
+      "is",
+      "easier",
+      "on",
+      "the",
+      "gardener",
+      "'s",
+      "footwear",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 17,
+      "end_idx": 17,
+      "span": "footwear",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 15,
+      "end_idx": 15,
+      "span": "gardener",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "A",
+      "girl",
+      "plays",
+      "her",
+      "violin",
+      "on",
+      "a",
+      "pogo",
+      "stick",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "violin",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "girl",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "The",
+      "missis",
+      "won",
+      "the",
+      "lottery",
+      "with",
+      "a",
+      "ticket",
+      "she",
+      "did",
+      "n't",
+      "tell",
+      "you",
+      "about",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "ticket",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "missis",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "Currently",
+      ",",
+      "the",
+      "villagers",
+      "operate",
+      "a",
+      "ram",
+      "oil",
+      "press",
+      "that",
+      "is",
+      "counter-intuitive",
+      "to",
+      "use",
+      "and",
+      "leads",
+      "to",
+      "sub-optimal",
+      "oil",
+      "extraction",
+      "from",
+      "groundnuts",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "press",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "villagers",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "The",
+      "report",
+      "is",
+      "about",
+      "the",
+      "regular",
+      "road",
+      "user",
+      "and",
+      "the",
+      "law",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "road",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "user",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "At",
+      "the",
+      "same",
+      "time",
+      ",",
+      "the",
+      "government",
+      "carefully",
+      "chose",
+      "the",
+      "facts",
+      "that",
+      "it",
+      "gave",
+      "to",
+      "the",
+      "newspapers",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "facts",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "government",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "Taking",
+      "a",
+      "stick",
+      "of",
+      "dynamite",
+      "from",
+      "their",
+      "mule",
+      ",",
+      "the",
+      "shooter",
+      "assembles",
+      "the",
+      "hand-charge",
+      "with",
+      "two",
+      "caps",
+      "and",
+      "fuses",
+      "-",
+      "which",
+      "is",
+      "now",
+      "considered",
+      "live",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "caps",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "shooter",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "This",
+      "code",
+      "constructs",
+      "a",
+      "triangle",
+      "from",
+      "a",
+      "set",
+      "of",
+      "three",
+      "lines",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "lines",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "code",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "A",
+      "teacher",
+      "writes",
+      "a",
+      "whole",
+      "number",
+      "less",
+      "than",
+      "50000",
+      "on",
+      "the",
+      "blackboard",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "blackboard",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "teacher",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "It",
+      "shows",
+      "a",
+      "female",
+      "doctor",
+      "with",
+      "a",
+      "veil",
+      "standing",
+      "beside",
+      "a",
+      "female",
+      "patient",
+      "in",
+      "bed",
+      ",",
+      "also",
+      "wearing",
+      "the",
+      "veil",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "veil",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "doctor",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "The",
+      "boy",
+      "pulls",
+      "the",
+      "rope",
+      "with",
+      "a",
+      "force",
+      "of",
+      "10.0",
+      "N",
+      ";",
+      "and",
+      "the",
+      "sled",
+      "moves",
+      "with",
+      "constant",
+      "velocity",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "force",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "boy",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "With",
+      "robotic",
+      "surgery",
+      "the",
+      "surgeon",
+      "manipulates",
+      "a",
+      "robot",
+      "to",
+      "do",
+      "the",
+      "operation",
+      "through",
+      "the",
+      "small",
+      "openings",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "robot",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "surgeon",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "The",
+      "psychiatrist",
+      "killed",
+      "him",
+      "with",
+      "the",
+      "drugs",
+      "she",
+      "gave",
+      "him",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "drugs",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "psychiatrist",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "At",
+      "that",
+      "point",
+      "the",
+      "patient",
+      "grabbed",
+      "the",
+      "arm",
+      "of",
+      "the",
+      "dentist",
+      "to",
+      "forcibly",
+      "pull",
+      "the",
+      "drill",
+      "out",
+      "of",
+      "his",
+      "mouth",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 15,
+      "end_idx": 15,
+      "span": "drill",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "dentist",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "The",
+      "event",
+      "featured",
+      "a",
+      "demonstration",
+      "of",
+      "weaving",
+      "on",
+      "a",
+      "loom",
+      "by",
+      "local",
+      "weaver",
+      "Nancy",
+      "Alexander",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "loom",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "weaver",
+      "type": null
+    },
+    "relation_type": "Instrument-Agency"
+  },
+  {
+    "sentence": [
+      "French",
+      "people",
+      "find",
+      "truffles",
+      "by",
+      "taking",
+      "a",
+      "drift",
+      "of",
+      "hogs",
+      "into",
+      "the",
+      "oak",
+      "forests",
+      "to",
+      "locate",
+      "and",
+      "dig",
+      "for",
+      "them",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "hogs",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "drift",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "One",
+      "who",
+      "lives",
+      "in",
+      "the",
+      "area",
+      "of",
+      "the",
+      "Ural",
+      "Mountains",
+      "has",
+      "a",
+      "possibility",
+      "of",
+      "observing",
+      "a",
+      "bevy",
+      "of",
+      "roebucks",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 18,
+      "end_idx": 18,
+      "span": "roebucks",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "bevy",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "I",
+      "'m",
+      "going",
+      "with",
+      "some",
+      "girls",
+      "to",
+      "get",
+      "a",
+      "bunch",
+      "of",
+      "flowers",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "flowers",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "bunch",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "Uniforms",
+      "were",
+      "rare",
+      ",",
+      "although",
+      "one",
+      "unit",
+      "of",
+      "royal",
+      "crossbowmen",
+      "had",
+      "been",
+      "issued",
+      "with",
+      "standard",
+      "black",
+      "cottes",
+      ",",
+      "or",
+      "tunics",
+      ",",
+      "earlier",
+      "in",
+      "the",
+      "14th",
+      "century",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "crossbowmen",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "unit",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "The",
+      "gaze",
+      "of",
+      "raccoons",
+      "seemingly",
+      "form",
+      "an",
+      "orderly",
+      "queue",
+      "to",
+      "accept",
+      "snacks",
+      "from",
+      "the",
+      "bus",
+      "driver",
+      "as",
+      "he",
+      "stops",
+      "off",
+      "outside",
+      "the",
+      "Legion",
+      "of",
+      "Honor",
+      "museum",
+      "in",
+      "San",
+      "Francisco",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "raccoons",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "gaze",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "Initially",
+      ",",
+      "the",
+      "infantry",
+      "component",
+      "of",
+      "the",
+      "Guard",
+      "consisted",
+      "of",
+      "one",
+      "regiment",
+      "of",
+      "foot",
+      "grenadiers",
+      "and",
+      "one",
+      "of",
+      "foot",
+      "chasseurs",
+      ",",
+      "each",
+      "with",
+      "two",
+      "march",
+      "battalions",
+      "and",
+      "one",
+      "training",
+      "battalion",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "grenadiers",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "regiment",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "The",
+      "guardianship",
+      "lay",
+      "in",
+      "the",
+      "hands",
+      "of",
+      "his",
+      "pious",
+      "mother",
+      ",",
+      "the",
+      "Empress",
+      "Agnes",
+      ",",
+      "until",
+      "April",
+      "1063",
+      ",",
+      "however",
+      ",",
+      "when",
+      "a",
+      "faction",
+      "of",
+      "conspirators",
+      ",",
+      "led",
+      "by",
+      "Archbishop",
+      "Anno",
+      "II",
+      "of",
+      "Cologne",
+      ",",
+      "abducted",
+      "the",
+      "young",
+      "king",
+      ",",
+      "who",
+      "tried",
+      "to",
+      "safe",
+      "himself",
+      "by",
+      "jumping",
+      "into",
+      "the",
+      "Rhine",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 25,
+      "end_idx": 25,
+      "span": "conspirators",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 23,
+      "end_idx": 23,
+      "span": "faction",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "Hizb-e",
+      "Wahdat",
+      ",",
+      "a",
+      "confederacy",
+      "of",
+      "various",
+      "Hazara",
+      "mujahideen",
+      "factions",
+      ",",
+      "was",
+      "supported",
+      "by",
+      "Iran",
+      "during",
+      "the",
+      "anti-Soviet",
+      "resistance",
+      "in",
+      "the",
+      "1980s",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "factions",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "confederacy",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "Williams",
+      ",",
+      "who",
+      "is",
+      "regarded",
+      "as",
+      "``",
+      "the",
+      "first",
+      "among",
+      "equals",
+      "''",
+      "within",
+      "the",
+      "communion",
+      "of",
+      "leaders",
+      "that",
+      "represent",
+      "160",
+      "countries",
+      "and",
+      "some",
+      "75",
+      "million",
+      "Anglicans",
+      "worldwide",
+      ",",
+      "has",
+      "sought",
+      "to",
+      "find",
+      "a",
+      "delicate",
+      "balance",
+      "within",
+      "the",
+      "deeply",
+      "divided",
+      "group",
+      "of",
+      "primates",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "leaders",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "communion",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "The",
+      "first",
+      "board",
+      "was",
+      "comprised",
+      "of",
+      "the",
+      "county",
+      "judge",
+      "and",
+      "the",
+      "five",
+      "district",
+      "court",
+      "judges",
+      "of",
+      "Bexar",
+      "County",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "judge",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "board",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "It",
+      "was",
+      "an",
+      "immense",
+      "flight",
+      "of",
+      "gulls",
+      ",",
+      "seamews",
+      ",",
+      "and",
+      "cormorants",
+      ";",
+      "a",
+      "vast",
+      "multitude",
+      "of",
+      "affrighted",
+      "sea",
+      "birds",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "gulls",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "flight",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "The",
+      "farm",
+      "takes",
+      "on",
+      "the",
+      "raffle",
+      "of",
+      "turkeys",
+      "in",
+      "July",
+      ",",
+      "when",
+      "they",
+      "'re",
+      "just",
+      "one",
+      "day",
+      "old",
+      ",",
+      "until",
+      "they",
+      "'re",
+      "slaughtered",
+      "in",
+      "December",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "turkeys",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "raffle",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "They",
+      "raided",
+      "a",
+      "house",
+      "behind",
+      "Mustapha",
+      "'s",
+      "residence",
+      "and",
+      "seized",
+      "a",
+      "cache",
+      "of",
+      "arms",
+      ",",
+      "weapons",
+      "and",
+      "explosives",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 13,
+      "end_idx": 13,
+      "span": "arms",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "cache",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "I",
+      "talk",
+      "knowledgeably",
+      "of",
+      "cord-feet",
+      "with",
+      "lumberjacks",
+      ",",
+      "point",
+      "out",
+      "a",
+      "doylt",
+      "of",
+      "pigs",
+      ",",
+      "and",
+      "bandy",
+      "verse",
+      "forms",
+      "with",
+      "poets",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 13,
+      "end_idx": 13,
+      "span": "pigs",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "doylt",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "He",
+      "has",
+      "been",
+      "a",
+      "committee",
+      "member",
+      "for",
+      "Gungarde",
+      "in",
+      "Cooktown",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "member",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "committee",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "He",
+      "changed",
+      "perspective",
+      "cricketers",
+      "view",
+      ",",
+      "on",
+      "role",
+      "of",
+      "wicket",
+      "keeper",
+      "in",
+      "the",
+      "team",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "keeper",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 13,
+      "end_idx": 13,
+      "span": "team",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "The",
+      "club",
+      "consists",
+      "of",
+      "parents",
+      ",",
+      "friends",
+      ",",
+      "alumni",
+      "and",
+      "local",
+      "businesses",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "parents",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "club",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "The",
+      "other",
+      "group",
+      "name",
+      ",",
+      "a",
+      "rabble",
+      "of",
+      "butterflies",
+      ",",
+      "is",
+      "a",
+      "bit",
+      "more",
+      "obscure",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "butterflies",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "rabble",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "I",
+      "remember",
+      "one",
+      "day",
+      "many",
+      "years",
+      "ago",
+      "sitting",
+      "on",
+      "the",
+      "top",
+      "of",
+      "Braich-y-Pwll",
+      "on",
+      "the",
+      "Llyn",
+      "Peninsula",
+      "watching",
+      "a",
+      "chattering",
+      "of",
+      "choughs",
+      "performing",
+      "an",
+      "amazing",
+      "set",
+      "of",
+      "aerodynamics",
+      "in",
+      "the",
+      "updrafts",
+      "of",
+      "a",
+      "winter",
+      "storm",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 21,
+      "end_idx": 21,
+      "span": "choughs",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 19,
+      "end_idx": 19,
+      "span": "chattering",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "Over",
+      "the",
+      "sierras",
+      "from",
+      "Los",
+      "Gazquez",
+      ",",
+      "passing",
+      "the",
+      "peaks",
+      "of",
+      "limestone",
+      ",",
+      "the",
+      "cliffs",
+      "where",
+      "the",
+      "peregrines",
+      "battle",
+      "for",
+      "purchase",
+      ",",
+      "the",
+      "clattering",
+      "of",
+      "choughs",
+      "tumble",
+      "to",
+      "cave",
+      "mouths",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 25,
+      "end_idx": 25,
+      "span": "choughs",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 23,
+      "end_idx": 23,
+      "span": "clattering",
+      "type": null
+    },
+    "relation_type": "Member-Collection"
+  },
+  {
+    "sentence": [
+      "The",
+      "tsunami",
+      "was",
+      "generated",
+      "by",
+      "an",
+      "undersea",
+      "landslide",
+      ",",
+      "which",
+      "was",
+      "triggered",
+      "by",
+      "the",
+      "earthquake",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "earthquake",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "landslide",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "Villagers",
+      "live",
+      "in",
+      "constant",
+      "terror",
+      "of",
+      "indiscriminate",
+      "gunfire",
+      "which",
+      "fills",
+      "the",
+      "nights",
+      "throughout",
+      "Chechnya",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "gunfire",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "terror",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "Acne",
+      "or",
+      "pimples",
+      "are",
+      "caused",
+      "by",
+      "hormonal",
+      "changes",
+      ",",
+      "wrong",
+      "food",
+      "habits",
+      "and",
+      "improper",
+      "skin",
+      "care",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 7,
+      "span": "hormonal changes",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Acne",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "Even",
+      "though",
+      "his",
+      "16-month",
+      "old",
+      "suffered",
+      "from",
+      "severe",
+      "burns",
+      "on",
+      "her",
+      "body",
+      "caused",
+      "by",
+      "boiling",
+      "water",
+      "spilled",
+      "on",
+      "her",
+      ",",
+      "father",
+      "refuses",
+      "to",
+      "allow",
+      "ambulance",
+      "to",
+      "take",
+      "his",
+      "daughter",
+      "to",
+      "Hadassah",
+      "because",
+      "`",
+      "rabbi",
+      "advised",
+      "otherwise",
+      "'",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 15,
+      "span": "boiling water",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "burns",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "Archbishop",
+      "of",
+      "York",
+      ",",
+      "Dr",
+      "John",
+      "Sentamu",
+      ",",
+      "visited",
+      "the",
+      "stoneyard",
+      "to",
+      "survey",
+      "the",
+      "damage",
+      "caused",
+      "by",
+      "the",
+      "fire",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 19,
+      "end_idx": 19,
+      "span": "fire",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 15,
+      "end_idx": 15,
+      "span": "damage",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "In",
+      "addition",
+      "to",
+      "the",
+      "Sudanese",
+      "rebels",
+      ",",
+      "the",
+      "bombing",
+      "resulted",
+      "in",
+      "the",
+      "deaths",
+      "of",
+      "several",
+      "Chadian",
+      "civilians",
+      "and",
+      "livestock",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "bombing",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "deaths",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "reaction",
+      "from",
+      "the",
+      "international",
+      "press",
+      ",",
+      "which",
+      "I",
+      "am",
+      "sure",
+      "you",
+      "here",
+      "in",
+      "Tokyo",
+      "have",
+      "noticed",
+      ",",
+      "has",
+      "been",
+      "very",
+      "wide",
+      "and",
+      "detailed",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "press",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "reaction",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "A",
+      "dog",
+      "loose",
+      "on",
+      "the",
+      "carriageway",
+      "caused",
+      "a",
+      "five-vehicle",
+      "crash",
+      "on",
+      "the",
+      "M25",
+      "on",
+      "Wednesday",
+      "morning",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "dog",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "crash",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "spiral",
+      "light",
+      "was",
+      "caused",
+      "by",
+      "the",
+      "missile",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "missile",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "light",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "war",
+      "resulted",
+      "in",
+      "other",
+      "collateral",
+      "imperial",
+      "conquests",
+      "as",
+      "well",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "war",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "conquests",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "construction",
+      "gives",
+      "a",
+      "refinement",
+      "of",
+      "Nori",
+      "'s",
+      "argument",
+      "in",
+      "the",
+      "case",
+      "of",
+      "a",
+      "self-product",
+      "of",
+      "a",
+      "curve",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "construction",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "refinement",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "damage",
+      "in",
+      "Washington",
+      "was",
+      "so",
+      "much",
+      "less",
+      "than",
+      "the",
+      "damage",
+      "caused",
+      "by",
+      "the",
+      "1994",
+      "Northridge",
+      "earthquake",
+      ",",
+      "despite",
+      "that",
+      "their",
+      "magnitudes",
+      "were",
+      "so",
+      "similar",
+      "--",
+      "6.8",
+      "vs.",
+      "6.7",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "earthquake",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "damage",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "chemical",
+      "reaction",
+      "in",
+      "the",
+      "water",
+      "caused",
+      "a",
+      "bubbling",
+      "affect",
+      "on",
+      "the",
+      "surface",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "reaction",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "affect",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "Like",
+      "a",
+      "catch-22",
+      "the",
+      "worst",
+      "part",
+      "is",
+      "that",
+      "acne",
+      "causes",
+      "stress",
+      "and",
+      "stress",
+      "triggers",
+      "acne",
+      "breakouts",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "stress",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 15,
+      "end_idx": 15,
+      "span": "breakouts",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "Food",
+      "poisoning",
+      "is",
+      "perhaps",
+      "the",
+      "commonest",
+      "cause",
+      "of",
+      "abdominal",
+      "pain",
+      ",",
+      "especially",
+      "in",
+      "the",
+      "young",
+      "dog",
+      "or",
+      "the",
+      "scavenger",
+      "type",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "poisoning",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 9,
+      "span": "abdominal pain",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "cysts",
+      "are",
+      "caused",
+      "by",
+      "chronic",
+      "inflammation",
+      "of",
+      "the",
+      "perichondrium",
+      "with",
+      "production",
+      "of",
+      "serous",
+      "fluid",
+      "between",
+      "the",
+      "perichondrium",
+      "and",
+      "cartilage",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "inflammation",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "cysts",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "Malaria",
+      "is",
+      "caused",
+      "by",
+      "infection",
+      "with",
+      "a",
+      "parasite",
+      "called",
+      "Plasmodium",
+      "that",
+      "is",
+      "transmitted",
+      "by",
+      "mosquitos",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "parasite",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Malaria",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "The",
+      "drugs",
+      "he",
+      "sold",
+      "had",
+      "caused",
+      "the",
+      "overdose",
+      "death",
+      "of",
+      "Matthew",
+      "Lessard",
+      ",",
+      "19",
+      ",",
+      "of",
+      "Lowell",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "drugs",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "death",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "In",
+      "view",
+      "of",
+      "the",
+      "terrible",
+      "destruction",
+      "that",
+      "was",
+      "caused",
+      "by",
+      "the",
+      "flood",
+      "waves",
+      ",",
+      "we",
+      "have",
+      "to",
+      "fear",
+      "that",
+      "a",
+      "number",
+      "of",
+      "Germans",
+      ",",
+      "clearly",
+      "in",
+      "the",
+      "three-digit",
+      "numbers",
+      ",",
+      "will",
+      "be",
+      "among",
+      "the",
+      "dead",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "waves",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "destruction",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "Atopic",
+      "dermatitis",
+      ",",
+      "the",
+      "most",
+      "common",
+      "type",
+      "of",
+      "eczema",
+      ",",
+      "causes",
+      "itchiness",
+      "that",
+      "'s",
+      "worse",
+      "in",
+      "the",
+      "colder",
+      "months",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "dermatitis",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "itchiness",
+      "type": null
+    },
+    "relation_type": "Cause-Effect"
+  },
+  {
+    "sentence": [
+      "You",
+      "have",
+      "fetched",
+      "character",
+      "data",
+      "into",
+      "a",
+      "standard",
+      "result",
+      "set",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "data",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "set",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "loan",
+      "fees",
+      "were",
+      "added",
+      "into",
+      "the",
+      "set",
+      "interest",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 2,
+      "span": "loan fees",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 8,
+      "span": "set interest",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "urine",
+      "was",
+      "drained",
+      "into",
+      "the",
+      "urine",
+      "bag",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "urine",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "bag",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "Such",
+      "ideas",
+      "and",
+      "technologies",
+      "from",
+      "the",
+      "functional",
+      "language",
+      "community",
+      "are",
+      "migrating",
+      "into",
+      "mainstream",
+      "software",
+      "engineering",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "ideas",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 13,
+      "end_idx": 14,
+      "span": "software engineering",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "We",
+      "placed",
+      "the",
+      "burlap",
+      "into",
+      "the",
+      "bucket",
+      "as",
+      "lining",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "burlap",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "bucket",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "items",
+      "are",
+      "handed",
+      "over",
+      "into",
+      "our",
+      "trust",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "items",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "trust",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "principal",
+      "has",
+      "put",
+      "computers",
+      "into",
+      "our",
+      "classroom",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "computers",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "classroom",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "My",
+      "friend",
+      "travels",
+      "into",
+      "several",
+      "countries",
+      "in",
+      "Northern",
+      "Europe",
+      "by",
+      "himself",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "friend",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "countries",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "Since",
+      "last",
+      "weekend",
+      ",",
+      "it",
+      "has",
+      "imported",
+      "chocolate",
+      "into",
+      "that",
+      "market",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "chocolate",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "market",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "new",
+      "product",
+      "has",
+      "been",
+      "released",
+      "into",
+      "the",
+      "online",
+      "shopping",
+      "malls",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "product",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 10,
+      "span": "online shopping malls",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "commandos",
+      "were",
+      "dropped",
+      "into",
+      "a",
+      "French",
+      "nuclear",
+      "plant",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "commandos",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "plant",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "small",
+      "box",
+      "was",
+      "placed",
+      "inside",
+      "the",
+      "large",
+      "box",
+      "and",
+      "the",
+      "4-inch",
+      "of",
+      "surrounding",
+      "space",
+      "filled",
+      "with",
+      "either",
+      "shredded",
+      "fabric",
+      ",",
+      "fiberglass",
+      "insulation",
+      "or",
+      "no",
+      "insulation",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "box",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "box",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "hotel",
+      "released",
+      "effluent",
+      "into",
+      "the",
+      "lake",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "effluent",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "lake",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "In",
+      "the",
+      "lineup",
+      ",",
+      "the",
+      "police",
+      "literally",
+      "put",
+      "the",
+      "defendant",
+      "in",
+      "a",
+      "line",
+      "with",
+      "other",
+      "people",
+      "to",
+      "see",
+      "if",
+      "the",
+      "victim",
+      "or",
+      "witness",
+      "can",
+      "identify",
+      "anyone",
+      "in",
+      "the",
+      "line",
+      "as",
+      "having",
+      "participated",
+      "in",
+      "a",
+      "crime",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "defendant",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "line",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "After",
+      "soaking",
+      "them",
+      "overnight",
+      ",",
+      "we",
+      "slipped",
+      "the",
+      "beans",
+      "into",
+      "a",
+      "fairly",
+      "wide-necked",
+      "wine",
+      "flask",
+      "that",
+      "'s",
+      "been",
+      "peeled",
+      "of",
+      "its",
+      "straw",
+      "wrapper",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "beans",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "flask",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "Pee",
+      "Dee",
+      "Academy",
+      "girls",
+      "basketball",
+      "coach",
+      "Jerry",
+      "Coleman",
+      "placed",
+      "the",
+      "quote",
+      "in",
+      "a",
+      "spot",
+      "where",
+      "he",
+      "was",
+      "sure",
+      "all",
+      "of",
+      "his",
+      "players",
+      "could",
+      "see",
+      "it",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "quote",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 13,
+      "end_idx": 13,
+      "span": "spot",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "After",
+      "they",
+      "caught",
+      "me",
+      ",",
+      "the",
+      "medicine",
+      "was",
+      "locked",
+      "in",
+      "a",
+      "safe",
+      ",",
+      "a",
+      "safe",
+      "with",
+      "a",
+      "combination",
+      "lock",
+      "and",
+      "the",
+      "weirdest",
+      "looking",
+      "key",
+      "I",
+      "'ve",
+      "ever",
+      "seen",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "medicine",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "safe",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "Now",
+      ",",
+      "you",
+      "have",
+      "imported",
+      "the",
+      "data",
+      "into",
+      "the",
+      "region",
+      "database",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "data",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "database",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "Multi-keypad",
+      "devices",
+      "are",
+      "added",
+      "into",
+      "upcoming",
+      "AT&T",
+      "phones",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "devices",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "phones",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "These",
+      "text",
+      "messages",
+      "are",
+      "sent",
+      "to",
+      "the",
+      "outer",
+      "space",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 2,
+      "span": "text messages",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 8,
+      "span": "outer space",
+      "type": null
+    },
+    "relation_type": "Entity-Destination"
+  },
+  {
+    "sentence": [
+      "The",
+      "percussionist",
+      "rattled",
+      "a",
+      "Nalgene",
+      "bottle",
+      "with",
+      "uncooked",
+      "popcorn",
+      "in",
+      "it",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "popcorn",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "bottle",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "ring",
+      "was",
+      "in",
+      "a",
+      "glass",
+      "of",
+      "champagne",
+      ",",
+      "and",
+      "all",
+      "of",
+      "hubby",
+      "'s",
+      "family",
+      "was",
+      "present",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "ring",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "glass",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "evidence",
+      "was",
+      "in",
+      "a",
+      "box",
+      "in",
+      "his",
+      "patrol",
+      "car",
+      ",",
+      "and",
+      "started",
+      "walking",
+      "back",
+      "toward",
+      "it",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "evidence",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "box",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "shelves",
+      "contained",
+      "books",
+      "with",
+      "sinister-sounding",
+      "titles",
+      ",",
+      "such",
+      "as",
+      "Crime",
+      "and",
+      "Punishment",
+      ",",
+      "Days",
+      "of",
+      "Wrath",
+      ",",
+      "Death",
+      "Walks",
+      "Among",
+      "You",
+      "and",
+      "a",
+      "few",
+      "others",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "books",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "shelves",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "It",
+      "was",
+      "a",
+      "jigsaw",
+      "puzzle",
+      "game",
+      "of",
+      "several",
+      "spilled",
+      "pecans",
+      "in",
+      "a",
+      "dish",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "pecans",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "dish",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "A",
+      "traffic",
+      "stop",
+      "for",
+      "speeding",
+      "Tuesday",
+      "afternoon",
+      "in",
+      "Troup",
+      "County",
+      "led",
+      "to",
+      "the",
+      "seizure",
+      "of",
+      "more",
+      "than",
+      "$",
+      "540,000",
+      "in",
+      "currency",
+      "that",
+      "was",
+      "hidden",
+      "in",
+      "buckets",
+      "of",
+      "roofing",
+      "tar",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 20,
+      "end_idx": 20,
+      "span": "currency",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 25,
+      "end_idx": 25,
+      "span": "buckets",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "nitric",
+      "oxide",
+      "was",
+      "contained",
+      "in",
+      "a",
+      "large",
+      "gold-plated",
+      "cylinder",
+      "in",
+      "which",
+      "it",
+      "was",
+      "ionized",
+      "by",
+      "krypton",
+      "resonance",
+      "radiation",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 2,
+      "span": "nitric oxide",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 9,
+      "span": "gold-plated cylinder",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "I",
+      "hold",
+      "the",
+      "stocks",
+      "in",
+      "an",
+      "individual",
+      "retirement",
+      "account",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "stocks",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 8,
+      "span": "retirement account",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "device",
+      "was",
+      "contained",
+      "in",
+      "a",
+      "small",
+      "jiffy",
+      "bag",
+      "with",
+      "a",
+      "white",
+      "label",
+      ",",
+      "with",
+      "a",
+      "post",
+      "mark",
+      "that",
+      "was",
+      "``",
+      "not",
+      "local",
+      "''",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "device",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 8,
+      "span": "jiffy bag",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "Only",
+      "the",
+      "session",
+      "identifier",
+      "is",
+      "stored",
+      "in",
+      "a",
+      "cookie",
+      "whether",
+      "database",
+      "is",
+      "used",
+      "or",
+      "not",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "identifier",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "cookie",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "base",
+      "of",
+      "the",
+      "shrine",
+      "encloses",
+      "a",
+      "lone",
+      "datura",
+      "seedpod",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "seedpod",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "base",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "There",
+      "are",
+      "actual",
+      "world",
+      "records",
+      "for",
+      "the",
+      "kookiest",
+      "hat",
+      ",",
+      "the",
+      "longest",
+      "time",
+      "a",
+      "message",
+      "was",
+      "in",
+      "a",
+      "bottle",
+      "at",
+      "sea",
+      ",",
+      "and",
+      "the",
+      "tallest",
+      "scarecrow",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "message",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 18,
+      "end_idx": 18,
+      "span": "bottle",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "This",
+      "machine",
+      "was",
+      "in",
+      "a",
+      "suitcase",
+      "that",
+      "was",
+      "the",
+      "size",
+      "of",
+      "a",
+      "carry-on",
+      "bag",
+      "and",
+      "weighed",
+      "less",
+      "than",
+      "10",
+      "pounds",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "machine",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "suitcase",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "He",
+      "removed",
+      "the",
+      "glass",
+      "slide",
+      "precleaned",
+      "in",
+      "piranha",
+      "solution",
+      "that",
+      "was",
+      "placed",
+      "upright",
+      "in",
+      "a",
+      "beaker",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "slide",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 15,
+      "end_idx": 15,
+      "span": "beaker",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "key",
+      "was",
+      "inside",
+      "a",
+      "planter",
+      "thing",
+      "we",
+      "had",
+      "hanging",
+      "near",
+      "the",
+      "door",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "key",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 6,
+      "span": "planter thing",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "Also",
+      "missing",
+      "was",
+      "a",
+      "38",
+      "caliber",
+      "Smith",
+      "&",
+      "Wesson",
+      "gun",
+      "that",
+      "was",
+      "in",
+      "a",
+      "suitcase",
+      "in",
+      "the",
+      "tractor",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "gun",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "suitcase",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "bowl",
+      "contained",
+      "apples",
+      ",",
+      "pears",
+      ",",
+      "and",
+      "oranges",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "apples",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "bowl",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "envelope",
+      "contained",
+      "an",
+      "important",
+      "intelligence",
+      "discovery",
+      "of",
+      "the",
+      "war",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "discovery",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "envelope",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "The",
+      "man",
+      "was",
+      "bluffing",
+      "because",
+      "the",
+      "bomb",
+      "was",
+      "in",
+      "a",
+      "can",
+      "of",
+      "orange",
+      "juice",
+      "that",
+      "had",
+      "been",
+      "served",
+      "by",
+      "the",
+      "airline",
+      "itself",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "bomb",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "can",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "She",
+      "gave",
+      "him",
+      "a",
+      "bottle",
+      "with",
+      "wine",
+      "in",
+      "it",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "wine",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "bottle",
+      "type": null
+    },
+    "relation_type": "Content-Container"
+  },
+  {
+    "sentence": [
+      "There",
+      "are",
+      "allegations",
+      "that",
+      "the",
+      "massacre",
+      "was",
+      "organized",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "allegations",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "massacre",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "08",
+      "campaign",
+      "green",
+      "jobs",
+      "was",
+      "the",
+      "main",
+      "talking",
+      "point",
+      "of",
+      "any",
+      "speech",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "speech",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "jobs",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "This",
+      "technique",
+      "has",
+      "been",
+      "clearly",
+      "explained",
+      "in",
+      "a",
+      "previous",
+      "issue",
+      "of",
+      "this",
+      "magazine",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "issue",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "technique",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "Halsey",
+      "Institute",
+      "has",
+      "put",
+      "together",
+      "a",
+      "symposium",
+      "with",
+      "intent",
+      "to",
+      "discuss",
+      "the",
+      "dissemination",
+      "of",
+      "difficult",
+      "imagery",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "symposium",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 13,
+      "end_idx": 13,
+      "span": "dissemination",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "It",
+      "is",
+      "an",
+      "occasional",
+      "publication",
+      "reporting",
+      "recent",
+      "events",
+      "and",
+      "activities",
+      "taking",
+      "place",
+      "at",
+      "the",
+      "Institute",
+      "for",
+      "Agriculture",
+      "and",
+      "Trade",
+      "Policy",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "publication",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "events",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "book",
+      "criticizes",
+      "the",
+      "institutionalized",
+      "nuclear",
+      "family",
+      "from",
+      "a",
+      "feminist",
+      "perspective",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "book",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "family",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "Cox",
+      "examined",
+      "the",
+      "current",
+      "financial",
+      "regulatory",
+      "structure",
+      "and",
+      "pointed",
+      "towards",
+      "its",
+      "very",
+      "immediate",
+      "potential",
+      "in",
+      "a",
+      "speech",
+      "before",
+      "the",
+      "conference",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "speech",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "structure",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "This",
+      "page",
+      "describes",
+      "the",
+      "1982",
+      "events",
+      "only",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "page",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "events",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "presented",
+      "case",
+      "study",
+      "charts",
+      "the",
+      "route",
+      "taken",
+      "by",
+      "North",
+      "Kesteven",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 3,
+      "span": "case study",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "route",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "Students",
+      "express",
+      "their",
+      "ideas",
+      "and",
+      "opinions",
+      "on",
+      "topics",
+      "of",
+      "interest",
+      ",",
+      "and",
+      "illustrate",
+      "their",
+      "writings",
+      "with",
+      "drawings",
+      "and",
+      "photos",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "ideas",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "topics",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "plot",
+      "centers",
+      "on",
+      "a",
+      "goldfish",
+      "named",
+      "Ponyo",
+      "who",
+      "befriends",
+      "a",
+      "five-year-old",
+      "human",
+      "boy",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "plot",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "goldfish",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "This",
+      "information",
+      "sheet",
+      "summarises",
+      "the",
+      "labour",
+      "environment",
+      "in",
+      "the",
+      "UK",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 2,
+      "span": "information sheet",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 6,
+      "span": "labour environment",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "This",
+      "tradition",
+      "has",
+      "been",
+      "narrated",
+      "in",
+      "prophet",
+      "'s",
+      "early",
+      "biographies",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "biographies",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "tradition",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "painting",
+      "was",
+      "one",
+      "of",
+      "the",
+      "first",
+      "used",
+      "as",
+      "a",
+      "poster",
+      "in",
+      "an",
+      "advertising",
+      "campaign",
+      "for",
+      "soap",
+      "powder",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 13,
+      "end_idx": 14,
+      "span": "advertising campaign",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 16,
+      "end_idx": 17,
+      "span": "soap powder",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "discussion",
+      "here",
+      "has",
+      "made",
+      "extensive",
+      "reference",
+      "to",
+      "the",
+      "contrasts",
+      "between",
+      "systems",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "discussion",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "contrasts",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "advertising",
+      "campaign",
+      "for",
+      "the",
+      "film",
+      "also",
+      "emphasized",
+      "the",
+      "supposed",
+      "historical",
+      "accuracy",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 2,
+      "span": "advertising campaign",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "film",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "Public",
+      "debate",
+      "swirls",
+      "over",
+      "the",
+      "purpose",
+      "and",
+      "goals",
+      "of",
+      "science",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "debate",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "purpose",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "Kidd",
+      "passed",
+      "Jackson",
+      "on",
+      "the",
+      "career",
+      "assists",
+      "list",
+      "with",
+      "an",
+      "alley-oop",
+      "pass",
+      "to",
+      "Rodrigue",
+      "Beaubois",
+      "with",
+      "10:53",
+      "left",
+      "in",
+      "the",
+      "third",
+      "quarter",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "list",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "assists",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "aim",
+      "of",
+      "this",
+      "paper",
+      "is",
+      "to",
+      "present",
+      "a",
+      "model",
+      "for",
+      "the",
+      "determination",
+      "of",
+      "the",
+      "monetary",
+      "values",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "paper",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "model",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "The",
+      "results",
+      "of",
+      "Al",
+      "Shabab",
+      "KSA",
+      "in",
+      "the",
+      "2007-2008",
+      "season",
+      "are",
+      "shown",
+      "in",
+      "this",
+      "article",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "article",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "results",
+      "type": null
+    },
+    "relation_type": "Message-Topic"
+  },
+  {
+    "sentence": [
+      "It",
+      "was",
+      "an",
+      "artificial",
+      "and",
+      "unworkable",
+      "creation",
+      "of",
+      "intellectuals",
+      "supported",
+      "by",
+      "the",
+      "great",
+      "powers",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "creation",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "intellectuals",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "Mark",
+      "Coreth",
+      ",",
+      "48",
+      ",",
+      "a",
+      "troop",
+      "leader",
+      "with",
+      "4",
+      "Troop",
+      ",",
+      "B",
+      "Squadron",
+      "The",
+      "Blues",
+      "and",
+      "Royals",
+      "during",
+      "the",
+      "conflict",
+      ",",
+      "and",
+      "now",
+      "a",
+      "sculptor",
+      "who",
+      "has",
+      "recently",
+      "completed",
+      "a",
+      "memorial",
+      "work",
+      "featuring",
+      "three",
+      "flying",
+      "albatrosses",
+      ",",
+      "spoke",
+      "after",
+      "the",
+      "service",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 32,
+      "end_idx": 32,
+      "span": "work",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 25,
+      "end_idx": 25,
+      "span": "sculptor",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "It",
+      "underscores",
+      "the",
+      "need",
+      "for",
+      "continued",
+      "surveillance",
+      "of",
+      "nicotine",
+      "delivery",
+      "in",
+      "products",
+      "created",
+      "by",
+      "an",
+      "unregulated",
+      "industry",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "products",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "industry",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "A",
+      "maker",
+      "of",
+      "electric",
+      "cars",
+      "plans",
+      "to",
+      "use",
+      "old",
+      "GM",
+      "plant",
+      "in",
+      "Delaware",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "cars",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "maker",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "Engineers",
+      "manually",
+      "manufacture",
+      "parts",
+      "in",
+      "the",
+      "areas",
+      "of",
+      "applied",
+      "spray",
+      "coatings",
+      ",",
+      "finishes",
+      ",",
+      "and",
+      "other",
+      "processes",
+      "that",
+      "can",
+      "not",
+      "economically",
+      "or",
+      "practically",
+      "be",
+      "done",
+      "by",
+      "a",
+      "machine",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "parts",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Engineers",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "Beginning",
+      "in",
+      "1939",
+      ",",
+      "the",
+      "factory",
+      "'s",
+      "passenger",
+      "cars",
+      "were",
+      "sold",
+      "under",
+      "the",
+      "Moskvitch",
+      "-LRB-",
+      "``",
+      "Muscovite",
+      "''",
+      "-RRB-",
+      "brand",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "cars",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "factory",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "The",
+      "three",
+      "lionesses",
+      "and",
+      "two",
+      "cubs",
+      "were",
+      "electrocuted",
+      "by",
+      "a",
+      "crop",
+      "protection",
+      "fence",
+      "put",
+      "up",
+      "by",
+      "a",
+      "farmer",
+      "near",
+      "Dhari",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "fence",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 17,
+      "end_idx": 17,
+      "span": "farmer",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "The",
+      "film",
+      "opened",
+      "in",
+      "America",
+      "before",
+      "Christmas",
+      ",",
+      "and",
+      "the",
+      "critics",
+      "have",
+      "given",
+      "their",
+      "verdict",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "verdict",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "critics",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "After",
+      "successful",
+      "completion",
+      "of",
+      "the",
+      "comprehensives",
+      ",",
+      "the",
+      "candidate",
+      "writes",
+      "a",
+      "dissertation",
+      "proposal",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "proposal",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "candidate",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "The",
+      "official",
+      "printed",
+      "slip",
+      "law",
+      "is",
+      "available",
+      "from",
+      "the",
+      "Government",
+      "printing",
+      "office",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "law",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "office",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "In",
+      "almost",
+      "all",
+      "of",
+      "the",
+      "incidents",
+      ",",
+      "the",
+      "attacker",
+      "developed",
+      "the",
+      "idea",
+      "to",
+      "harm",
+      "the",
+      "target",
+      "before",
+      "the",
+      "attack",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "idea",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "attacker",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "Now",
+      "in",
+      "its",
+      "56th",
+      "year",
+      ",",
+      "this",
+      "unique",
+      "folkloric",
+      "dance",
+      "company",
+      "continues",
+      "to",
+      "collect",
+      ",",
+      "perform",
+      "and",
+      "preserve",
+      "authentic",
+      "traditional",
+      "Hungarian",
+      "music",
+      "and",
+      "dance",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "dance",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "company",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "They",
+      "also",
+      "saw",
+      "the",
+      "birth",
+      "of",
+      "the",
+      "Gelugpa",
+      "school",
+      "-LRB-",
+      "also",
+      "known",
+      "as",
+      "Yellow",
+      "Hats",
+      "-RRB-",
+      "by",
+      "the",
+      "disciples",
+      "of",
+      "Tsongkhapa",
+      "Lobsang",
+      "Dragpa",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "school",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 18,
+      "end_idx": 18,
+      "span": "disciples",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "The",
+      "neighbor",
+      ",",
+      "who",
+      "owns",
+      "a",
+      "raisin",
+      "factory",
+      ",",
+      "wanted",
+      "the",
+      "property",
+      "to",
+      "expand",
+      "his",
+      "business",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "raisin",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "factory",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "The",
+      "index",
+      "is",
+      "based",
+      "on",
+      "the",
+      "set",
+      "of",
+      "the",
+      "scientist",
+      "'s",
+      "most",
+      "cited",
+      "papers",
+      "and",
+      "the",
+      "number",
+      "of",
+      "citations",
+      "that",
+      "they",
+      "have",
+      "received",
+      "in",
+      "other",
+      "people",
+      "'s",
+      "publications",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 13,
+      "end_idx": 13,
+      "span": "papers",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "scientist",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "Workers",
+      "build",
+      "the",
+      "comb",
+      "from",
+      "wax",
+      "extruded",
+      "from",
+      "glands",
+      "under",
+      "their",
+      "abdomen",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "comb",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Workers",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "Given",
+      "the",
+      "factory",
+      "'s",
+      "primary",
+      "product",
+      "is",
+      "condoms",
+      ",",
+      "the",
+      "gay",
+      "community",
+      "'s",
+      "support",
+      "is",
+      "essential",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "condoms",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "factory",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "Bob",
+      "the",
+      "Builder",
+      "and",
+      "friends",
+      "construct",
+      "an",
+      "ecologically",
+      "friendly",
+      "town",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "town",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "friends",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "The",
+      "factory",
+      "'s",
+      "products",
+      "have",
+      "included",
+      "flower",
+      "pots",
+      ",",
+      "Finnish",
+      "rooster-whistles",
+      ",",
+      "pans",
+      ",",
+      "trays",
+      ",",
+      "tea",
+      "pots",
+      ",",
+      "ash",
+      "trays",
+      "and",
+      "air",
+      "moisturisers",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "trays",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "factory",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "The",
+      "company",
+      "practically",
+      "created",
+      "the",
+      "personal-home-computer",
+      "industry",
+      ",",
+      "but",
+      "the",
+      "company",
+      "made",
+      "the",
+      "fateful",
+      "decision",
+      "not",
+      "to",
+      "liberally",
+      "license",
+      "its",
+      "software",
+      "applications",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "decision",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "company",
+      "type": null
+    },
+    "relation_type": "Product-Producer"
+  },
+  {
+    "sentence": [
+      "One",
+      "of",
+      "my",
+      "girlfriends",
+      "ordered",
+      "the",
+      "Lomo",
+      "de",
+      "Puerco",
+      "which",
+      "was",
+      "their",
+      "pork",
+      "chop",
+      "in",
+      "some",
+      "guava",
+      "sauce",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 17,
+      "end_idx": 17,
+      "span": "sauce",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 16,
+      "end_idx": 16,
+      "span": "guava",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Cane",
+      "sugar",
+      "engineering",
+      "and",
+      "technology",
+      "texts",
+      "currently",
+      "used",
+      "are",
+      "out",
+      "of",
+      "date",
+      "and",
+      "do",
+      "not",
+      "include",
+      "most",
+      "of",
+      "the",
+      "developments",
+      "in",
+      "technology"
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "sugar",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Cane",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "This",
+      "American-style",
+      "wheat",
+      "ale",
+      "is",
+      "a",
+      "light",
+      ",",
+      "unfiltered",
+      "brew",
+      "with",
+      "a",
+      "citrus",
+      "aroma",
+      "andflavor",
+      "imparted",
+      "by",
+      "a",
+      "late",
+      "addition",
+      "of",
+      "lemon",
+      "grass",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "ale",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "wheat",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "The",
+      "standard",
+      "soccer",
+      "ball",
+      "is",
+      "made",
+      "of",
+      "synthetic",
+      "leather",
+      ",",
+      "usually",
+      "polyurethane",
+      "or",
+      "polyvinyl",
+      "chloride",
+      ",",
+      "stitched",
+      "around",
+      "an",
+      "inflated",
+      "rubber",
+      "or",
+      "rubber-like",
+      "bladder",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "ball",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "leather",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "38",
+      "%",
+      "of",
+      "the",
+      "world",
+      "'s",
+      "generated",
+      "electrical",
+      "energy",
+      "is",
+      "gained",
+      "from",
+      "coal",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "energy",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "coal",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "The",
+      "ministers",
+      "went",
+      "away",
+      "from",
+      "the",
+      "December",
+      "conference",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "ministers",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "conference",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "When",
+      "poured",
+      "into",
+      "a",
+      "Sly",
+      "Imperial",
+      "pint",
+      "glass",
+      ",",
+      "this",
+      "rye",
+      "ale",
+      "was",
+      "a",
+      "solid",
+      "amber",
+      "color",
+      "with",
+      "a",
+      "few",
+      "minor",
+      "gold",
+      "highlights",
+      "along",
+      "the",
+      "sides",
+      "and",
+      "at",
+      "the",
+      "bottom",
+      "of",
+      "the",
+      "beer",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "ale",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "rye",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Later",
+      "in",
+      "the",
+      "year",
+      ",",
+      "from",
+      "November",
+      "to",
+      "April",
+      ",",
+      "the",
+      "black",
+      "flood",
+      "arrives",
+      "from",
+      "the",
+      "upper",
+      "reaches",
+      "of",
+      "the",
+      "river",
+      "beyond",
+      "Timbuktu",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "flood",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 17,
+      "end_idx": 17,
+      "span": "reaches",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "General-Secretary",
+      "Jiang",
+      "Zemin",
+      "is",
+      "tasting",
+      "the",
+      "``",
+      "Huzhu",
+      "Brand",
+      "''",
+      "barley",
+      "liquor",
+      "offered",
+      "by",
+      "the",
+      "local",
+      "Tu",
+      "minority",
+      "people",
+      "and",
+      "he",
+      "gives",
+      "the",
+      "liquor",
+      "a",
+      "high",
+      "rating",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "liquor",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 10,
+      "end_idx": 10,
+      "span": "barley",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Surprisingly",
+      "soon",
+      ",",
+      "a",
+      "culprit",
+      "popped",
+      "out",
+      "of",
+      "the",
+      "data",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 4,
+      "end_idx": 4,
+      "span": "culprit",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "data",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Strawberry",
+      "jam",
+      "is",
+      "the",
+      "perfect",
+      "way",
+      "to",
+      "use",
+      "a",
+      "glut",
+      "of",
+      "strawberries",
+      "and",
+      "is",
+      "so",
+      "easy",
+      "to",
+      "make",
+      "with",
+      "this",
+      "Strawberry",
+      "Jam",
+      "recipe",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "jam",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Strawberry",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Things",
+      "reach",
+      "a",
+      "head",
+      "when",
+      "the",
+      "capricious",
+      "youngster",
+      "runs",
+      "away",
+      "from",
+      "the",
+      "Jeffersons",
+      "'",
+      "apartment",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "youngster",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 14,
+      "end_idx": 14,
+      "span": "apartment",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "It",
+      "removes",
+      "the",
+      "hair",
+      "to",
+      "the",
+      "precise",
+      "contour",
+      "of",
+      "a",
+      "perfectly",
+      "shaped",
+      "eyebrow",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "hair",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 12,
+      "end_idx": 12,
+      "span": "eyebrow",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "My",
+      "point",
+      "was",
+      "coming",
+      "from",
+      "a",
+      "welding",
+      "background",
+      "that",
+      "good",
+      "goggles",
+      "are",
+      "most",
+      "definitely",
+      "not",
+      "hard",
+      "to",
+      "find",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "point",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "background",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "The",
+      "first",
+      "legislation",
+      "specifically",
+      "forbidding",
+      "the",
+      "production",
+      "of",
+      "wheat",
+      "spirits",
+      "for",
+      "anything",
+      "other",
+      "than",
+      "medicinal",
+      "purposes",
+      "appeared",
+      "in",
+      "1570",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "spirits",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 8,
+      "end_idx": 8,
+      "span": "wheat",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Beer",
+      "is",
+      "produced",
+      "by",
+      "the",
+      "brewing",
+      "and",
+      "fermentation",
+      "of",
+      "starches",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 0,
+      "end_idx": 0,
+      "span": "Beer",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "starches",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "They",
+      "weave",
+      "fine",
+      "cloth",
+      ",",
+      "and",
+      "they",
+      "use",
+      "the",
+      "down",
+      "of",
+      "water-sheep",
+      "in",
+      "making",
+      "it",
+      ";",
+      "it",
+      "is",
+      "called",
+      "Hai-hsi-pu",
+      "-LRB-",
+      "cloth",
+      "from",
+      "the",
+      "west",
+      "of",
+      "the",
+      "sea",
+      "-RRB-",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 9,
+      "end_idx": 9,
+      "span": "down",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 11,
+      "end_idx": 11,
+      "span": "water-sheep",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Recruiting",
+      "talented",
+      "computer",
+      "scientists",
+      "from",
+      "underrepresented",
+      "communities",
+      "is",
+      "important",
+      "to",
+      "current",
+      "and",
+      "future",
+      "workforce",
+      "needs",
+      "of",
+      "the",
+      "Computation",
+      "Directorate",
+      "as",
+      "well",
+      "as",
+      "the",
+      "Laboratory",
+      "as",
+      "a",
+      "whole",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 3,
+      "end_idx": 3,
+      "span": "scientists",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 6,
+      "end_idx": 6,
+      "span": "communities",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "All",
+      "the",
+      "actors",
+      "came",
+      "from",
+      "a",
+      "theater",
+      "background",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 2,
+      "end_idx": 2,
+      "span": "actors",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 7,
+      "end_idx": 7,
+      "span": "background",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  },
+  {
+    "sentence": [
+      "Space",
+      "beer",
+      "is",
+      "made",
+      "from",
+      "barley",
+      "grown",
+      "in",
+      "space",
+      "."
+    ],
+    "head_entity": {
+      "start_idx": 1,
+      "end_idx": 1,
+      "span": "beer",
+      "type": null
+    },
+    "tail_entity": {
+      "start_idx": 5,
+      "end_idx": 5,
+      "span": "barley",
+      "type": null
+    },
+    "relation_type": "Entity-Origin"
+  }
+]
